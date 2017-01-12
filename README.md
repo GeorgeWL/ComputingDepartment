@@ -1,5 +1,5 @@
 # ComputingDepartment
-Web Site for our redesign of computing department of Sheffield Hallam university. Now Hosted live at http://coding.georgelangham.net/Comp-Dept
+Web Site for our redesign of computing department of Sheffield Hallam university. Now Hosted live at http://projects.georgelangham.co.uk/Comp-Dept
 
 At this point in time the development is as far as we want to take it for this prototype.
 
